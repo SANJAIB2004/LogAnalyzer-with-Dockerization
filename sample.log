@@ -1,0 +1,12 @@
+2024-06-20 10:00:00,123 - INFO - Starting application
+2024-06-20 10:00:05,124 - WARNING - Disk usage at 85%
+2024-06-20 10:00:10,125 - INFO - User logged in
+2024-06-20 10:00:15,126 - ERROR - Database connection failed
+2024-06-20 10:00:20,127 - ERROR - Retry attempt 1 failed
+2024-06-20 10:00:25,128 - ERROR - Retry attempt 2 failed
+2024-06-20 10:00:30,129 - ERROR - Retry attempt 3 failed
+2024-06-20 10:00:35,130 - ERROR - All retries exhausted
+2024-06-20 10:00:40,131 - WARNING - Memory usage high
+2024-06-20 10:00:45,132 - INFO - Cleanup started
+2024-06-20 10:00:50,133 - ERROR - Unexpected shutdown triggered
+2024-06-20 10:00:55,134 - INFO - Application stopped
